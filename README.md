@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Saima Syeda👋</h1>
 <h3 align="left">I am passionate about building innovative software solutions and solving challenging problems.</h3>
 
-- 🔭 I’m currently working on **Personal Expense Tracker**
+- 🔭 I’m currently working on **Todo Management**
 
 - 🌱 I’m currently learning **Spring, React**
 
